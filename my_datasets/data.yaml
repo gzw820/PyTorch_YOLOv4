@@ -1,0 +1,6 @@
+train: ./my_datasets/train/images
+val: ./my_datasets/valid/images
+test: ./my_datasets/test/images
+
+nc: 1
+names: ['fire']
